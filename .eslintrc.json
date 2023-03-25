@@ -1,0 +1,12 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    // general
+    "quote-props": ["error", "as-needed"],
+    "quotes": ["error", "single"],
+
+    // react
+    "react/react-in-jsx-scope": "off",
+    "jsx-quotes": ["error", "prefer-double"]
+  }
+}

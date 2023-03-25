@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/js/custom.js",
+      "destination": "https://code.jqwerty.com/js/custom.js"
+    },
+    {
+      "source": "/api/event",
+      "destination": "https://analytics.jqwerty.com/api/event"
+    }
+  ]
+}
